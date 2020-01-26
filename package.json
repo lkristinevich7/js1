@@ -1,0 +1,25 @@
+{
+  "name": "project-js",
+  "version": "1.0.0",
+  "description": "szkolenie",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liudmila",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1", 
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
